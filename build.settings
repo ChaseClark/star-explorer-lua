@@ -1,0 +1,13 @@
+-- build.settings for project: Ch10 Star Explorer-- Managed with http://CoronaProjectManager.com-- Copyright 2011 Brian Burton. All Rights Reserved.-- cpmgen build.settings
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+
+}
